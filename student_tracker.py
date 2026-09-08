@@ -22,9 +22,8 @@ class Student:
     @classmethod
 
     def get_average_gpa(cls):
-        if cls.total_gpa == 0:
+        if cls.count == 0:
             return "average gpa: 0.00"
-
         else:
             return f"Average gpa: {cls.total_gpa / cls.count:.2f}"
 
