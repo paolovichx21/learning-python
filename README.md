@@ -10,3 +10,6 @@ A simple Python script I built to practice Object-Oriented Programming (OOP) con
 ## How to run
 ```bash
 python student_tracker.py
+
+
+```
