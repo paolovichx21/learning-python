@@ -1,12 +1,12 @@
-# Student Tracker 🎓
+# Student Tracker (Python OOP Practice)
 
-A simple Python Object-Oriented Programming (OOP) project that manages student records, calculates average GPAs, and tracks the total student count.
+A simple Python script I built to practice Object-Oriented Programming (OOP) concepts like class variables and `@classmethod`.
 
-## 🚀 Features
-- **Class Methods**: Tracks global statistics like `total_students` and `average_gpa`.
-- **Clean Structure**: Uses Python best practices (`if __name__ == "__main__":`).
-- **Data Iteration**: Easily loops through objects using Python lists.
+## What it does
+- Tracks student names and their GPAs.
+- Automatically counts total students and calculates the average GPA.
+- Displays all student info using a simple `for` loop.
 
-## 🛠️ How to Run
+## How to run
 ```bash
 python student_tracker.py
